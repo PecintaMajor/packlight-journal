@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://pecintamajor.github.io/packlight-journal/sitemap.xml
